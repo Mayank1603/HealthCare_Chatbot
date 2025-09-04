@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+fuzzywuzzy
+joblib
+pyngrok
+seaborn
+matplotlib
+Pillow
+scikit-image
+opencv-python
+keras
